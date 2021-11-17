@@ -9,7 +9,7 @@ The primary effects of earthquakes are ground shaking, ground rupture, landslide
 Some of the common impacts of earthquakes include structural damage to buildings, fires, damage to bridges and highways, initiation of slope failures, liquefaction, and tsunami.
 
 # Live View
-![Live View](https://earthquake.usgs.gov/earthquakes/map/?extent=-78.69911,-319.92188&extent=84.9901,130.07813&settings=true)
+![](./earthq.PNG)
 
 # Python code
 
