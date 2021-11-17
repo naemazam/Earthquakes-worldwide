@@ -1,1 +1,1 @@
-# Earthquakes-worldwide-past-24h-
+# Earthquakes-worldwide (24 Hours)
